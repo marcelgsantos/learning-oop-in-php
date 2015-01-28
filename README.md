@@ -273,7 +273,7 @@ A collection of resources to learn object-oriented programming and related conce
 * [Lukas Kahwe Smith](https://twitter.com/lsmith) - PHP developer and open source contributor to projects like Doctrine ORM and Symfony Framework.
 * [Marcello Duarte](https://twitter.com/_md) - PHP developer and co-creator of PhpSpec test framework.
 * [Martin Fowler](https://twitter.com/martinfowler) - One of the original authors of Agile Manifesto and author of the best selling books about software engineering like Patterns of Enterprise Application Architecture and Refactoring books.
-* [Matthew O'Phinney](https://twitter.com/mwop) - Enginner at Zend Technologies and project lead of Zend Framework and Apigility.
+* [Matthew Weier O'Phinney](https://twitter.com/mwop) - Principal Enginner at Zend Technologies and project lead for Zend Framework and Apigility.
 * [Matthias Noback](https://twitter.com/matthiasnoback) - PHP developer and author of books like A Year with Symfony and Principles of Package Design.
 * [Marco Pivetta](https://twitter.com/Ocramius) - PHP developer and core team member of Doctrine ORM and team member of Zend Framework.
 * [Michael Dowling](https://twitter.com/mtdowling) - Software enginner at Amazon Web Services and creator of Guzzle library.
