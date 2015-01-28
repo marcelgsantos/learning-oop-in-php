@@ -8,6 +8,7 @@ A collection of resources to learn object-oriented programming and related conce
     - [Design Patterns](#design-patterns)
     - [Refactoring](#refactoring)
     - [Architecture](#architecture)
+    - [Miscellaneous](#miscellaneous)
 - [Videos](#videos)
 - [Slides](#slides)
 - [Courses](#courses)
