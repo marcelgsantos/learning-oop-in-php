@@ -261,7 +261,7 @@ A collection of resources to learn object-oriented programming and related conce
 * [Igor Wiedler](https://twitter.com/igorwhiletrue) - Creator of Silex micro-framework and open-source contributor to projects like Symfony and Composer.
 * [Javier Eguiluz](https://twitter.com/javiereguiluz) - Symfony evangelist in SensioLab and creator of easybook project.
 * [Jeffrey Way](https://twitter.com/jeffrey_way) - Creator of Laracasts and Laravel contributor and evangelist.
-* [Jeremy Mikola](https://twitter.com/jmikola) - Enginner at MongoDB and open source contributor to projects like Doctrine ORM and Symfony Framework.
+* [Jeremy Mikola](https://twitter.com/jmikola) - Engineer at MongoDB, open source contributor to projects like Doctrine ODM and Symfony Framework, and co-organizer of WurstCon.
 * [Johannes Schmitt](https://twitter.com/schmittjoh) - Founder of Scrutinizer CI and open source contributor to projects like Symfony.
 * [Jordi Boggiano](https://twitter.com/seldaek) - Founder of Toran Proxy, co-creator and project lead of Composer and Monolog and Symfony core developer.
 * [Josh Lockhart](https://twitter.com/codeguy) - Creator of Slim Framework and PHP The Right Way site.
