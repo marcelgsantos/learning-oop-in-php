@@ -47,6 +47,7 @@ A collection of resources to learn object-oriented programming and related conce
 * [The Clean Code Talks - Inheritance, Polymorphism, & Testing (&#9658;)](https://www.youtube.com/watch?v=4F72VULWFvc) - A tutorial about polymorphism and how it affects testing.
 * [PHP Namespaces Explained](http://daylerees.com/php-namespaces-explained) - A tutorial explaining how namespaces works in PHP.
 * [PHP Namespaces](http://www.sitepoint.com/php-namespaces/) - A tutorial explaining what is and how namespaces works in PHP.
+* [PHP Namespaces in 120 Seconds Tutorial (&#9658;)](http://knpuniversity.com/screencast/php-namespaces-in-120-seconds) - A 120 seconds long tutorial explaining what is and how to use namespaces in PHP.
 * [PSR-Huh?](https://code.tutsplus.com/tutorials/psr-huh--net-29314) - An introduction about PSR standards.
 * [Autoloading in PHP and the PSR-0 Standard](http://www.sitepoint.com/autoloading-and-the-psr-0-standard/) - An introduction about what is autoloading in PHP and the PSR-0 standard.
 * [Battle of the Autoloaders: PSR-0 vs. PSR-4](http://www.sitepoint.com/battle-autoloaders-psr-0-vs-psr-4/) - A tutorial explaining the difference between PSR-0 and PSR-4 autoloader standards.
