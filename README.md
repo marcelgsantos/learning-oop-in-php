@@ -61,6 +61,7 @@ A collection of resources to learn object-oriented programming and related conce
 * [Magic Methods and Predefined Constants in PHP](http://www.sitepoint.com/magic-methods-and-predefined-constants-in-php/) - A tutorial about magic methods and predefined constants in PHP.
 * [What are PHP Traits?](http://culttt.com/2014/06/25/php-traits/) - A tutorial explaining what is and how to use traits in PHP.
 * [Using Traits in PHP 5.4](http://www.sitepoint.com/using-traits-in-php-5-4/) - Another tutorial explaining what is and how to use traits in PHP.
+* [The PHP Reflection API (&#9658;)](https://www.youtube.com/playlist?list=PLfdtiltiRHWG0__5Jb1HDaDgt2PeYjvU6) - A tutorial explaining the PHP Reflection API.
 * [What is Reflection in PHP?](http://culttt.com/2014/07/02/reflection-php/) - A tutorial explaining what is, when to use and some samples about reflection in PHP.
 * [Reflection in PHP](https://code.tutsplus.com/tutorials/reflection-in-php--net-31408) - Another tutorial about reflection in PHP.
 * [UML 2.0 Tutorial (&#9658;)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc) - An introduction tutorial about UML.
@@ -149,6 +150,7 @@ A collection of resources to learn object-oriented programming and related conce
 * [Design Patterns Video Tutorial (&#9658;)](https://www.youtube.com/playlist?list=PLF206E906175C7E07) - A series about design patterns.
 * [PHP Design Patterns - Elements of Reusable Object-Oriented Software (&#9658;)](https://www.youtube.com/playlist?list=PLGJDCzBP5j3xGaW0AGlaVHK2TMEr2XkP9) - A series about design patterns in PHP.
 * [Agile Design Patterns (&#9658;$)](https://code.tutsplus.com/courses/agile-design-patterns) - A series about design patterns in PHP.
+* [Design Patterns in PHP (&#9658;$)](http://www.lynda.com/PHP-tutorials/Design-Patterns-PHP/186870-2.html) - Another series about design patterns in PHP.
 * [Introduction to Design Patterns with PHP](https://speakerdeck.com/hhamon/introduction-to-design-patterns-with-php) - An introduction slide to SOLID and design patterns in PHP.
 * [Database Design Patterns](https://speakerdeck.com/hhamon/database-design-patterns-with-php-53) - A slide about database design patterns in PHP.
 * [Design Patterns PHP](https://github.com/domnikl/DesignPatternsPHP) - A collection of design patterns and some code implementation in PHP.
@@ -204,6 +206,7 @@ A collection of resources to learn object-oriented programming and related conce
 * [Data Structures for PHP Devs: Trees](http://www.sitepoint.com/data-structures-2/) - A tutorial about Tree data structure in PHP.
 * [Data Structures for PHP Devs: Heaps](http://www.sitepoint.com/data-structures-3/) - A tutorial about Heap data structure in PHP.
 * [Data Structures for PHP Devs: Graphs](http://www.sitepoint.com/data-structures-4/) - A tutorial about Graph data structure in PHP.
+* [PHP Security Pitfalls (&#9658;$)](https://code.tutsplus.com/courses/php-security-pitfalls) - A series about security in PHP.
 
 ## Videos
 *Videos about object-oriented programming and related concepts.*
