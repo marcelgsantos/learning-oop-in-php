@@ -1,5 +1,6 @@
 # Learning OOP in PHP
 A collection of resources to learn object-oriented programming and related concepts for PHP developers.
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 
 - [Tutorials](#tutorials)
     - [OOP Fundamentals](#oop-fundamentals)
@@ -14,7 +15,6 @@ A collection of resources to learn object-oriented programming and related conce
 - [Courses](#courses)
 - [Books](#books)
 - [Some Questions](#some-questions)
-- [Contributing](#contributing)
 
 ## Tutorials
 
@@ -308,6 +308,3 @@ The project name is "Learning OOP in PHP". But, despite the name, object oriente
 
 ***There are some tutorials that aren't in the correct section?***  
 I tried to keep this reference as simple as possible and divided it in a few areas. But there are some problems! Feel free to make any suggestions and contribute.
-
-## Contributing
-Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md) for details and contribute. ;)
