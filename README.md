@@ -208,18 +208,17 @@ A collection of resources to learn object-oriented programming and related conce
 ## Videos
 *Videos about object-oriented programming and related concepts.*
 
-* *...more to coming...*
+* *...more to come...*
 
 ## Slides
 *Slides about object-oriented programming and related concepts.*
 
 * [The OOP in PHP](http://matthewturland.com/slides/phpoop-tutorial/) - An introductory tutorial to OOP concepts and terminology using PHP's object model as an example.
-* *...more to coming...*
 
 ## Courses
 *Courses about object-oriented programming and related concepts.*
 
-* *...more to coming...*
+* *...more to come...*
 
 ## Books
 *Fantastic and must-read books about object-oriented programming, analysis, design and related concepts.*
