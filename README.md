@@ -298,7 +298,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [Sebastian Bergmann](https://twitter.com/s_bergmann) - PHP developer, open source contributor and creator of PHPUnit test framework.
 * [Taylor Otwell](https://twitter.com/taylorotwell) - PHP developer and creator of Laravel Framework.
 * [Ward Cunningham](https://twitter.com/WardCunningham) - Programmer pioneer in Design Patterns and Extreme Programming.
-* [William Durand](https://twitter.com/couac) - PHP developer, open source contributor and project lead of Propel ORM and creator of Geocoder library.
+* [William Durand](https://twitter.com/couac) - PHP developer, open source contributor and creator of Geocoder library.
 * [Zeev Suraski](https://twitter.com/zeevs) - CTO and co-founder of Zend and PHP co-architect.
 
 ## Some Questions
