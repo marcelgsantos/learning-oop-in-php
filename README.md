@@ -192,6 +192,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [The MVC Pattern and PHP, Part 1](http://www.sitepoint.com/the-mvc-pattern-and-php-1/) and [The MVC Pattern and PHP, Part 2](http://www.sitepoint.com/the-mvc-pattern-and-php-2/) - An introduction tutorial about MVC pattern.
 * [Alternatives To MVC](http://blog.ircmaxell.com/2014/11/alternatives-to-mvc.html) - An introduction to alternative architectures to MVC.
 * [N-Tier Architecture - An Introduction](http://blog.ircmaxell.com/2012/08/n-tier-architecture-introduction.html) - An introduction to n-tier architecture.
+* [Hexagonal Architecture](http://fideloper.com/hexagonal-architecture) - An introduction to Hexagonal Architecture in PHP.
 
 ### Miscellaneous
 *Not related to OOP but interesting resources.*
