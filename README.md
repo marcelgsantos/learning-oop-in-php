@@ -42,7 +42,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [Abstract Classes and Interfaces (&#9658;)](https://www.youtube.com/watch?v=AU07jJc_qMQ) - Introduction about abstract classes and interfaces.
 * [When should I code to an Interface?](http://culttt.com/2014/04/02/code-interface/) - A tutorial explaining what is and when to use interfaces in PHP.
 * [Understanding and Applying Polymorphism in PHP](https://code.tutsplus.com/tutorials/understanding-and-applying-polymorphism-in-php--net-14362) - A tutorial explaining about abstract classes, interfaces and polymorphism in PHP.
-* [Inheritance and Polymorhpism Concepts (&#9658;)](https://www.youtube.com/watch?v=A8Ztfuq96t4) - An introduction about inheritance and polymorphism.
+* [Inheritance and Polymorphism Concepts (&#9658;)](https://www.youtube.com/watch?v=A8Ztfuq96t4) - An introduction about inheritance and polymorphism.
 * [Beyond Inheritance](http://blog.ircmaxell.com/2013/11/beyond-inheritance.html) - A tutorial explaining what is inheritance and its types.
 * [The Clean Code Talks - Inheritance, Polymorphism, & Testing (&#9658;)](https://www.youtube.com/watch?v=4F72VULWFvc) - A tutorial about polymorphism and how it affects testing.
 * [PHP Namespaces Explained](http://daylerees.com/php-namespaces-explained) - A tutorial explaining how namespaces works in PHP.
@@ -51,7 +51,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [PSR-Huh?](https://code.tutsplus.com/tutorials/psr-huh--net-29314) - An introduction about PSR standards.
 * [Autoloading in PHP and the PSR-0 Standard](http://www.sitepoint.com/autoloading-and-the-psr-0-standard/) - An introduction about what is autoloading in PHP and the PSR-0 standard.
 * [Battle of the Autoloaders: PSR-0 vs. PSR-4](http://www.sitepoint.com/battle-autoloaders-psr-0-vs-psr-4/) - A tutorial explaining the difference between PSR-0 and PSR-4 autoloader standards.
-* [PSR-4 Autoloading (&#9658;$)](https://laracasts.com/lessons/psr-4-autoloading) - A tutorial explaining PSR-4 autoloader stardard.
+* [PSR-4 Autoloading (&#9658;$)](https://laracasts.com/lessons/psr-4-autoloading) - A tutorial explaining PSR-4 autoloader standard.
 * [How Static Works in PHP (&#9658;)](https://www.youtube.com/watch?v=hbbdyyN9MRU) - An introduction on how static members work in PHP.
 * [When to Use Static Methods](http://verraes.net/2014/06/when-to-use-static-methods-in-php/) - A tutorial explaining when to use static methods in PHP.
 * [PHP Exceptions](https://code.tutsplus.com/tutorials/the-ins-and-outs-of-php-exceptions--net-22274) - An introduction about exceptions in PHP.
@@ -107,7 +107,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [Reducing Coupling](http://martinfowler.com/ieeeSoftware/coupling.pdf) - An article about reducing coupling.
 * [Tell Don't Ask](https://pragprog.com/articles/tell-dont-ask) - An introduction to Tell Don't Ask principle.
 * [Introduction to the Law of Demeter](http://www.sitepoint.com/introduction-to-the-law-of-demeter/) - An introduction to the Law of Demeter.
-* [You Arent Gonna Need It](http://www.c2.com/cgi/wiki?YouArentGonnaNeedIt) - An introduction to YAGNI principle.
+* [You Aren't Gonna Need It](http://www.c2.com/cgi/wiki?YouArentGonnaNeedIt) - An introduction to YAGNI principle.
 * [Premature Optimization](http://www.c2.com/cgi/wiki?PrematureOptimization) - An introduction to Premature Optimization anti-pattern.
 * [Primitive Obsession](http://c2.com/cgi/wiki?PrimitiveObsession) - An introduction to Primitive Obsession anti-pattern.
 * [God Class](http://c2.com/cgi/wiki?GodClass) - An introduction to God Class anti-pattern.
@@ -134,7 +134,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [What is Dependency Injection?](http://fabien.potencier.org/article/11/what-is-dependency-injection) - An introduction to Dependency Injection in PHP.
 * [Dependency Injection with PHP 5.3](http://www.slideshare.net/fabpot/dependency-injection-in-php-5354) - Slides about Dependency Injection in PHP.
 * [Why use a Dependency Injection Container?](http://richardmiller.co.uk/2011/07/07/dependency-injection-moving-from-basics-to-container/) - A tutorial of what is and when to use a Dependency Injection Container.
-* [Dependency Injection with Pimple](http://www.sitepoint.com/dependency-injection-with-pimple/) - An introduction to Dependey Injection and how use Pimple for that.
+* [Dependency Injection with Pimple](http://www.sitepoint.com/dependency-injection-with-pimple/) - An introduction to Dependency Injection and how use Pimple for that.
 * [Dependency Injection Is Not The Same As The Dependency Inversion Principle](http://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/) - A tutorial explaining the difference between Dependency Injection and Dependency Inversion Principle.
 * [Catalog of Patterns of Enterprise Application Architecture](http://martinfowler.com/eaaCatalog/index.html) - A catalog of Patterns of Enterprise Application Architecture.
 
